@@ -1,3 +1,4 @@
+.DS_Store
 wp_data/*
 !wp_data/.gitkeep
 /logs
