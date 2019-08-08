@@ -1,0 +1,5 @@
+wp_data/*
+!wp_data/.gitkeep
+logs
+mysql
+nginx
