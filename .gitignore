@@ -1,5 +1,8 @@
 wp_data/*
 !wp_data/.gitkeep
-logs
-mysql
-nginx
+/logs
+!/logs/.gitkeep
+/mysql
+!/mysql/.gitkeep
+/nginx
+!/nginx/.gitkeep
