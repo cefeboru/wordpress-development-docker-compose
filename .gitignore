@@ -7,3 +7,4 @@ wp_data/*
 !/mysql/.gitkeep
 /nginx
 !/nginx/.gitkeep
+.idea
